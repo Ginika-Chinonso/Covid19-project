@@ -1,0 +1,1 @@
+This project uses python for Data Analytics to visualize the global impact of Covid19
